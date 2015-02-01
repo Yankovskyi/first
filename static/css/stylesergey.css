@@ -16,6 +16,6 @@
 #body tr:nth-child(even) {
     background-color: #2e6da4;
 }
-#body tr:nth-child(5n+5){
+#example tr:nth-child(5n+5){
     background-color: #ff0000;
 }
